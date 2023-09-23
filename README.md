@@ -1,8 +1,8 @@
-# UBER GO
+# Lyft GO
 
-UBER CLONE APP
+Lyft CLONE APP
 
-This is a clone of the popular Uber taxi app. It allows users to request a ride from a nearby driver. Drivers can sign up to offer their services, and they will be notified when a rider requests a ride in their area.
+This is a clone of the popular Lyft taxi app. It allows users to request a ride from a nearby driver. Drivers can sign up to offer their services, and they will be notified when a rider requests a ride in their area.
 
 FEATURES
 The app includes the following features:
